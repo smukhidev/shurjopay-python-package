@@ -8,7 +8,7 @@ Shurjopay integration Library
   **pip install shurjopay-pkg-tareq**
 
   To install Python package from github, you need to clone that repository.
-  git clone https://github.com/tareqanam/surjopay.git
+  git clone https://github.com/smukhidev/shurjopay-python-package
    
   Then just run the setup.py file from that directory,
   sudo python setup.py install
